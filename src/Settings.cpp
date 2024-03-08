@@ -33,7 +33,6 @@ void Settings::save()
 
   info();
   Serial.println("settings saved");
-
 }
 
 void Settings::info()
@@ -61,3 +60,4 @@ void Settings::reset()
 
   save();
 }
+//
