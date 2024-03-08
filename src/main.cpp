@@ -252,3 +252,4 @@ void detect_long_press()
   // save the the last state
   lastState = currentState;
 }
+//
